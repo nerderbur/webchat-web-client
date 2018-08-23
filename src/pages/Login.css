@@ -17,10 +17,6 @@
     transform: translate(-50%, -50%)
 }
 
-.card-header {
-    
-}
-
 .card-content {
     height: 300px;
     display: flex;
